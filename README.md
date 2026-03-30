@@ -1,6 +1,3 @@
-# Open-Source-Software---Evaluated-Course-Project
-This repository contains my capstone project for the Open Source Software (OSS) course. The project focuses on analyzing and understanding an open-source software system from both technical and philosophical perspectives, along with demonstrating practical Linux shell scripting skills.
-[README.md](https://github.com/user-attachments/files/26358739/README.md)
 # oss-audit-24MIM10005
 
 This is my Open Source Software lab repo for auditing **Git** on **Ubuntu 24.04 (WSL2)**.
